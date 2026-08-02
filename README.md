@@ -3,11 +3,11 @@
 <h3 align="center">Desenvolvedor Full Stack Júnior</h3>
 
 <p align="center">
-  <img src="./assets/alucard-github-profile.gif" alt="Cena animada do Alucard em tons de vermelho e preto" width="720">
+  <img src="./assets/alucard-github-profile.gif" alt="Cena animada do Alucard em tons de vermelho e preto" width="720" height="260">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-DISPONÍVEL%20PARA%20OPORTUNIDADES-991B1B?style=for-the-badge" alt="Disponível para oportunidades">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-DC2626?style=for-the-badge" alt="Status: online">
   <img src="https://img.shields.io/badge/LOCALIZAÇÃO-HORTOLÂNDIA%2C%20SP-111827?style=for-the-badge" alt="Hortolândia, São Paulo">
 </p>
 
@@ -57,6 +57,8 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
 
 ## Tecnologias e ferramentas
 
+### Linguagens
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
@@ -64,11 +66,47 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+
+### Frameworks e bibliotecas
+
+<p>
   <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
+</p>
+
+### Bancos de dados e serviços
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+</p>
+
+### Ferramentas de desenvolvimento
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=flat-square&logo=github&logoColor=white" alt="GitHub Desktop">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm">
+</p>
+
+## Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kevinsantanadev&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas públicas do GitHub de Kevin Santana">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantanadev&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas nos repositórios públicos de Kevin Santana">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kevinsantanadev&theme=dark&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Kevin Santana no GitHub">
 </p>
 
 ## Atualmente estudando
