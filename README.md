@@ -1,9 +1,18 @@
 <h1 align="center">Kevin Santana dos Reis</h1>
 
-<h3 align="center">Desenvolvedor de Software Júnior</h3>
+<h3 align="center">Desenvolvedor Full Stack Júnior</h3>
 
 <p align="center">
-  Desenvolvendo soluções web com foco em back-end, APIs, banco de dados e experiências digitais bem estruturadas.
+  <img src="./assets/alucard-github-profile.gif" alt="Cena animada do Alucard em tons de vermelho e preto" width="720">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-DISPONÍVEL%20PARA%20OPORTUNIDADES-991B1B?style=for-the-badge" alt="Disponível para oportunidades">
+  <img src="https://img.shields.io/badge/LOCALIZAÇÃO-HORTOLÂNDIA%2C%20SP-111827?style=for-the-badge" alt="Hortolândia, São Paulo">
+</p>
+
+<p align="center">
+  Construindo soluções web com foco em back-end, APIs, bancos de dados e experiências digitais bem estruturadas.
 </p>
 
 <p align="center">
@@ -19,26 +28,32 @@
 
 ## Sobre mim
 
-- Desenvolvedor de Software Júnior.
+- Desenvolvedor Full Stack Júnior.
 - Graduando em Análise e Desenvolvimento de Sistemas no UNASP.
 - Formação técnica em Tecnologia da Informação.
-- Interesse em back-end, APIs, banco de dados e desenvolvimento web.
-- Localizado em Hortolândia, São Paulo.
-- Em constante evolução por meio de projetos práticos e estudos técnicos.
+- Interesse em back-end, APIs, bancos de dados e desenvolvimento web.
+- Localizado em Hortolândia, São Paulo, Brasil.
+- Em evolução contínua por meio de projetos práticos e estudos técnicos.
 
 ## Projetos em destaque
 
 ### VagaTrack
 
-Plataforma para gestão de candidaturas e processos seletivos, com dashboard, banco de dados persistente, filtros, relatórios e integração de localização por API.
+Plataforma full stack para gestão de candidaturas e processos seletivos, com dashboard, banco de dados persistente, filtros, relatórios e integração de localização por API.
 
-[Ver demonstração do VagaTrack](https://vagatrack.kevinsantanadev.com.br)
+[Ver demonstração do VagaTrack](https://vagatrack.kevinsantanadev.com.br) · [Ver código](https://github.com/kevinsantanadev/vagatrack)
 
 ### ImunoLink
 
-Plataforma digital para gestão de vacinas e perfis de saúde. Atuação principalmente no back-end, contribuindo com regras de negócio, banco de dados, integrações e validações.
+Plataforma digital para gestão de vacinas e perfis de saúde desenvolvida em uma equipe de duas pessoas. Atuação principal no back-end, com contribuições full stack em regras de negócio, banco de dados, integrações e validações.
 
-[Conhecer o ImunoLink](https://imunolink.com.br) - em reparo...
+[Conhecer o ImunoLink](https://projetomed.com.br/TECTI/2025/gp02/imunolink/app/index.php)
+
+### Portfólio
+
+Portfólio multilíngue com temas claro e escuro, acessibilidade, animações sutis e experiência 3D interativa.
+
+[Abrir portfólio](https://kevinsantanadev.com.br) · [Ver código](https://github.com/kevinsantanadev/portfolio)
 
 ## Tecnologias e ferramentas
 
@@ -51,7 +66,7 @@ Plataforma digital para gestão de vacinas e perfis de saúde. Atuação princip
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
