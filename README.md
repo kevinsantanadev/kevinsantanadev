@@ -136,3 +136,12 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
 <p align="center">
   Aberto a oportunidades, colaboração e novos desafios em desenvolvimento de software.
 </p>
+
+
+## Direitos autorais
+
+© 2026 Kevin Santana dos Reis. Todos os direitos reservados.
+
+Este perfil é público para apresentação profissional, avaliação e estudo pessoal. O conteúdo não é open source e não pode ser copiado, redistribuído ou apresentado como criação de terceiros.
+
+Consulte o arquivo [LICENSE.md](LICENSE.md) para conhecer as condições de uso.
