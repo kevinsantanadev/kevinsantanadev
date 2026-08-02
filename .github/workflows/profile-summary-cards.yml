@@ -1,0 +1,35 @@
+name: Atualizar estatísticas do perfil
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - corrige-cartoes-estatisticas
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Gerar cartões locais do GitHub
+
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+
+      - name: Gerar e publicar os cartões
+        uses: vn7n24fzkq/github-profile-summary-cards@d9632798b299e9ad6940449a859c30742eb5b549
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: ${{ github.ref_name }}
+          UTC_OFFSET: -3
+          AUTO_PUSH: true
+          THEME: github_dark
+          ANIMATION: fade
+          DURATION: 2
+          NAME: Kevin Santana

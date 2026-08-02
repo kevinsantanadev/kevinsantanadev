@@ -41,7 +41,7 @@
 
 Plataforma full stack para gestão de candidaturas e processos seletivos, com dashboard, banco de dados persistente, filtros, relatórios e integração de localização por API.
 
-[Ver demonstração do VagaTrack](https://vagatrack.kevinsantanadev.com.br) · [Ver código](https://github.com/kevinsantanadev/vagatrack)
+[Ver demonstração do VagaTrack](https://vagatrack.kevinsantanadev.com.br)
 
 ### ImunoLink
 
@@ -101,12 +101,26 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kevinsantanadev&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas públicas do GitHub de Kevin Santana">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsantanadev&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas nos repositórios públicos de Kevin Santana">
+  <a href="https://github.com/kevinsantanadev">
+    <img width="350" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas públicas do GitHub de Kevin Santana">
+  </a>
+  <a href="https://github.com/kevinsantanadev?tab=repositories">
+    <img width="350" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais utilizadas nos commits públicos de Kevin Santana">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kevinsantanadev">
+    <img width="720" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumo das contribuições públicas de Kevin Santana no GitHub">
+  </a>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kevinsantanadev&theme=dark&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Kevin Santana no GitHub">
+</p>
+
+<p align="center">
+  <sub>Estatísticas geradas e atualizadas automaticamente pelo próprio repositório.</sub>
 </p>
 
 ## Atualmente estudando
