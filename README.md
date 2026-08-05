@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Full Stack Júnior</h3>
 
 <p align="center">
-  <img src="./assets/petalas-vermelhas.gif" alt="Pétalas vermelhas planando sobre uma paisagem" width="720">
+  <img src="./assets/petalas-vermelhas.gif" alt="Pétalas vermelhas planando sobre uma paisagem" width="560" height="300">
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## Sobre mim
 
-<img align="right" src="./assets/rosto-glitch.gif" alt="Rosto animado com efeito de televisão antiga e glitch" width="220">
+<img align="right" src="./assets/globo-astrologico.png" alt="Globo astrológico com trajetórias e símbolos coloridos" width="220">
 
 - Desenvolvedor Full Stack Júnior.
 - Graduando em Análise e Desenvolvimento de Sistemas no UNASP.
@@ -74,6 +74,10 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 </p>
+
+<br clear="right">
+
+<img align="right" src="./assets/prompts-comandos.gif" alt="Janelas animadas de prompt de comando exibindo código" width="240">
 
 ### Frameworks e bibliotecas
 
