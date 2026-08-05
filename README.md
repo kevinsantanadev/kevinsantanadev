@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Full Stack Júnior</h3>
 
 <p align="center">
-  <img src="./assets/rosas-vermelhas.jpeg" alt="Rosas vermelhas iluminadas em uma paisagem escura" width="560" height="300">
+  <img src="./assets/rosas-vermelhas.gif" alt="Rosas vermelhas animadas e iluminadas em uma paisagem escura" width="560" height="300">
 </p>
 
 <p align="center">
