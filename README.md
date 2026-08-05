@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Full Stack Júnior</h3>
 
 <p align="center">
-  <img src="./assets/alucard-github-profile.gif" alt="Cena animada do Alucard em tons de vermelho e preto" width="720" height="260">
+  <img src="./assets/petalas-vermelhas.gif" alt="Pétalas vermelhas planando sobre uma paisagem" width="720">
 </p>
 
 <p align="center">
@@ -28,12 +28,16 @@
 
 ## Sobre mim
 
+<img align="right" src="./assets/rosto-glitch.gif" alt="Rosto animado com efeito de televisão antiga e glitch" width="220">
+
 - Desenvolvedor Full Stack Júnior.
 - Graduando em Análise e Desenvolvimento de Sistemas no UNASP.
 - Formação técnica em Tecnologia da Informação.
 - Interesse em back-end, APIs, bancos de dados e desenvolvimento web.
 - Localizado em Hortolândia, São Paulo, Brasil.
 - Em evolução contínua por meio de projetos práticos e estudos técnicos.
+
+<br clear="right">
 
 ## Projetos em destaque
 
@@ -56,6 +60,8 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
 [Abrir portfólio](https://kevinsantanadev.com.br) · [Ver código](https://github.com/kevinsantanadev/portfolio)
 
 ## Tecnologias e ferramentas
+
+<img align="right" src="./assets/olho-animado.gif" alt="Olho animado em preto e branco" width="240">
 
 ### Linguagens
 
@@ -97,6 +103,8 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm">
 </p>
+
+<br clear="right">
 
 ## Estatísticas do GitHub
 
