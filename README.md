@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor Full Stack Júnior</h3>
 
 <p align="center">
-  <img src="./assets/mar-noturno.gif" alt="Mar noturno animado refletindo a luz sobre as ondas" width="540">
+  <img src="./assets/mar-noturno.gif" alt="Mar noturno animado com a palavra 𝖜𝖊𝖑𝖈𝖔𝖒𝖊 em estilo gótico" width="540">
 </p>
 
 <p align="center">
