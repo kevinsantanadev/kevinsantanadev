@@ -1,6 +1,6 @@
 <h1 align="center">𝑲𝒆𝒗𝒊𝒏 𝑺𝒂𝒏𝒕𝒂𝒏𝒂 𝒅𝒐𝒔 𝑹𝒆𝒊𝒔</h1>
 
-<h3 align="center">Desenvolvedor Full Stack Júnior</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 <p align="center">
   <img src="./assets/mar-noturno.gif" alt="Mar noturno animado refletindo a luz sobre as ondas" width="540">
@@ -30,7 +30,7 @@
 
 <img align="right" src="./assets/olho-animado.gif" alt="Olho animado em preto e branco" width="220">
 
-- Desenvolvedor Full Stack Júnior.
+- Desenvolvedor Full Stack.
 - Graduando em Análise e Desenvolvimento de Sistemas no UNASP.
 - Formação técnica em Tecnologia da Informação.
 - Interesse em back-end, APIs, bancos de dados e desenvolvimento web.
@@ -40,6 +40,12 @@
 <br clear="right">
 
 ## Projetos em destaque
+
+### Prismivo
+
+Plataforma SaaS full stack para operações de empresas de serviços, com autenticação, organizações, clientes, equipe, projetos, aprovações, atendimento, notificações, painel administrativo e controle de acesso por funções. Construída com persistência PostgreSQL, políticas RLS, internacionalização e testes automatizados.
+
+[Acessar o Prismivo](https://prismivo.kevinsantanadev.com.br) · [Ver código](https://github.com/kevinsantanadev/prismivo)
 
 ### VagaTrack
 
@@ -85,6 +91,8 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="React Three Fiber">
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=111827" alt="Drizzle ORM">
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod">
 </p>
 
 ### Bancos de dados e serviços
@@ -99,6 +107,8 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
   <img src="https://img.shields.io/badge/Mercado%20Pago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="Mercado Pago">
   <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend">
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA">
+  <img src="https://img.shields.io/badge/Supabase%20Auth-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase Auth">
+  <img src="https://img.shields.io/badge/Supabase%20Storage-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase Storage">
 </p>
 
 ### Ferramentas de desenvolvimento
@@ -111,6 +121,9 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm">
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
 <br clear="right">
