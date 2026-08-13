@@ -47,6 +47,11 @@ Sistema full stack desenvolvido como freelancer para uma cliente do segmento de 
 
 [Ver o PS Agenda em operação](https://ps-agenda.vercel.app)
 
+<p>
+  <img src="./assets/ps-agenda-home.jpg" alt="Página inicial do PS Agenda" width="49%">
+  <img src="./assets/ps-agenda-booking.jpg" alt="Fluxo de agendamento do PS Agenda" width="49%">
+</p>
+
 ### VagaTrack
 
 Plataforma full stack para gestão de candidaturas e processos seletivos, com dashboard, banco de dados persistente, filtros, relatórios e integração de localização por API.
