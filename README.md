@@ -43,25 +43,17 @@
 
 ### PS Agenda — projeto para cliente
 
-Sistema profissional de agendamento online desenvolvido para o Espaço Priscilla Santana. Reúne site responsivo e PWA instalável, disponibilidade em tempo real, painel administrativo protegido, lista de espera, gestão financeira e pagamentos por Pix e cartão.
+Sistema profissional de agendamento online desenvolvido sob demanda para um negócio de serviços. O produto público oferece uma experiência responsiva para conhecer os serviços e solicitar horários.
 
-O produto pode ser acessado publicamente, mas seu código-fonte, credenciais e dados operacionais permanecem privados e confidenciais por se tratar de um projeto entregue a cliente.
+O código-fonte, as credenciais, o painel administrativo e os dados operacionais permanecem privados para preservar o trabalho contratado e a segurança do cliente.
 
 [Acessar o PS Agenda](https://agenda.kevinsantanadev.com.br)
-
-**Desenvolvimento e propriedade intelectual:** Kevin Santana dos Reis — [reiscampos.ke@gmail.com](mailto:reiscampos.ke@gmail.com)
 
 ### Prismivo
 
 Plataforma SaaS full stack para operações de empresas de serviços, com autenticação, organizações, clientes, equipe, projetos, aprovações, atendimento, notificações, painel administrativo e controle de acesso por funções. Construída com persistência PostgreSQL, políticas RLS, internacionalização e testes automatizados.
 
 [Acessar o Prismivo](https://prismivo.kevinsantanadev.com.br) · [Ver código](https://github.com/kevinsantanadev/prismivo)
-
-### VagaTrack
-
-Plataforma full stack para gestão de candidaturas e processos seletivos, com dashboard, banco de dados persistente, filtros, relatórios e integração de localização por API.
-
-[Ver demonstração do VagaTrack](https://vagatrack.kevinsantanadev.com.br)
 
 ### ImunoLink
 
