@@ -49,6 +49,16 @@ O código-fonte, as credenciais, o painel administrativo e os dados operacionais
 
 [Acessar o PS Agenda](https://agenda.kevinsantanadev.com.br)
 
+### Portfólio Bruna Campos — projeto para cliente
+
+Portfólio profissional desenvolvido para uma Técnica em Enfermagem, com identidade clínica própria, apresentação de formação, experiências, estágios, certificações e competências, currículo para download, acessibilidade, animações sutis e domínio personalizado.
+
+O site pode ser acessado publicamente, mas seu código-fonte e os documentos de trabalho permanecem privados por se tratar de um projeto entregue a cliente.
+
+[Acessar o Portfólio Bruna Campos](https://bruna.kevinsantanadev.com.br)
+
+**Desenvolvimento e propriedade intelectual:** Kevin Santana dos Reis — [reiscampos.ke@gmail.com](mailto:reiscampos.ke@gmail.com)
+
 ### Prismivo
 
 Plataforma SaaS full stack para operações de empresas de serviços, com autenticação, organizações, clientes, equipe, projetos, aprovações, atendimento, notificações, painel administrativo e controle de acesso por funções. Construída com persistência PostgreSQL, políticas RLS, internacionalização e testes automatizados.
