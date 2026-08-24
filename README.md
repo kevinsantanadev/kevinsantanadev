@@ -158,10 +158,6 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kevinsantanadev&theme=dark&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Kevin Santana no GitHub">
-</p>
-
-<p align="center">
   <sub>Estatísticas geradas e atualizadas automaticamente pelo próprio repositório.</sub>
 </p>
 
