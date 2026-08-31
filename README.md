@@ -105,6 +105,8 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
   <img src="https://img.shields.io/badge/React%20Three%20Fiber-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="React Three Fiber">
   <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=111827" alt="Drizzle ORM">
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod">
+  <img src="https://img.shields.io/badge/Motion-FFF312?style=flat-square&logo=framer&logoColor=111827" alt="Motion">
+  <img src="https://img.shields.io/badge/Lucide%20React-F56565?style=flat-square&logo=lucide&logoColor=white" alt="Lucide React">
 </p>
 
 ### Bancos de dados e serviços
