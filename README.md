@@ -1,6 +1,6 @@
 <h1 align="center">𝑲𝒆𝒗𝒊𝒏 𝑺𝒂𝒏𝒕𝒂𝒏𝒂 𝒅𝒐𝒔 𝑹𝒆𝒊𝒔</h1>
 
-<h3 align="center">Desenvolvedor Full Stack</h3>
+<h3 align="center">Desenvolvedor Full Stack · TI · Suporte · Operações</h3>
 
 <p align="center">
   <img src="./assets/mar-noturno.gif" alt="Mar noturno animado refletindo a luz sobre as ondas" width="540">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  Construindo soluções web com foco em back-end, APIs, bancos de dados e experiências digitais bem estruturadas.
+  Construindo soluções digitais e conectando desenvolvimento, suporte e organização de processos a necessidades reais.
 </p>
 
 <p align="center">
@@ -30,34 +30,16 @@
 
 <img align="right" src="./assets/olho-animado.gif" alt="Olho animado em preto e branco" width="220">
 
-- Desenvolvedor Full Stack.
+- Desenvolvedor Full Stack com formação técnica em Tecnologia da Informação.
 - Graduando em Análise e Desenvolvimento de Sistemas no UNASP.
-- Formação técnica em Tecnologia da Informação.
-- Interesse em back-end, APIs, bancos de dados e desenvolvimento web.
+- Experiência em desenvolvimento de sistemas, suporte, testes, documentação e bancos de dados.
+- Vivência administrativa com atendimento, documentos, planilhas, agendas e controle de informações.
 - Localizado em Hortolândia, São Paulo, Brasil.
-- Em evolução contínua por meio de projetos práticos e estudos técnicos.
+- Perfil analítico, organizado, comunicativo e adaptável, com aprendizado rápido.
 
 <br clear="right">
 
 ## Projetos em destaque
-
-### PS Agenda — projeto para cliente
-
-Sistema profissional de agendamento online desenvolvido sob demanda para um negócio de serviços. O produto público oferece uma experiência responsiva para conhecer os serviços e solicitar horários.
-
-O código-fonte, as credenciais, o painel administrativo e os dados operacionais permanecem privados para preservar o trabalho contratado e a segurança do cliente.
-
-[Acessar o PS Agenda](https://agenda.kevinsantanadev.com.br)
-
-### Portfólio Bruna Campos — projeto para cliente
-
-Portfólio profissional desenvolvido para uma Técnica em Enfermagem, com identidade clínica própria, apresentação de formação, experiências, estágios, certificações e competências, currículo para download, acessibilidade, animações sutis e domínio personalizado.
-
-O site pode ser acessado publicamente, mas seu código-fonte e os documentos de trabalho permanecem privados por se tratar de um projeto entregue a cliente.
-
-[Acessar o Portfólio Bruna Campos](https://bruna.kevinsantanadev.com.br)
-
-**Desenvolvimento e propriedade intelectual:** Kevin Santana dos Reis — [reiscampos.ke@gmail.com](mailto:reiscampos.ke@gmail.com)
 
 ### Prismivo
 
@@ -70,6 +52,26 @@ Plataforma SaaS full stack para operações de empresas de serviços, com autent
 Plataforma digital para gestão de vacinas e perfis de saúde desenvolvida em uma equipe de duas pessoas. Atuação principal no back-end, com contribuições full stack em regras de negócio, banco de dados, integrações e validações.
 
 [Conhecer o ImunoLink](https://projetomed.com.br/TECTI/2025/gp02/imunolink/app/index.php)
+
+### PS Agenda — projeto para cliente
+
+Sistema profissional de agendamento online desenvolvido sob demanda para um negócio de serviços. O produto público oferece uma experiência responsiva para conhecer os serviços e solicitar horários.
+
+O código-fonte, as credenciais, o painel administrativo e os dados operacionais permanecem privados para preservar o trabalho contratado e a segurança do cliente.
+
+[Acessar o PS Agenda](https://agenda.kevinsantanadev.com.br)
+
+## Outros trabalhos selecionados
+
+### Portfólio Bruna Campos — projeto para cliente
+
+Portfólio profissional desenvolvido para uma Técnica em Enfermagem, com identidade clínica própria, apresentação de formação, experiências, estágios, certificações e competências, currículo para download, acessibilidade, animações sutis e domínio personalizado.
+
+O site pode ser acessado publicamente, mas seu código-fonte e os documentos de trabalho permanecem privados por se tratar de um projeto entregue a cliente.
+
+[Acessar o Portfólio Bruna Campos](https://bruna.kevinsantanadev.com.br)
+
+**Desenvolvimento e propriedade intelectual:** Kevin Santana dos Reis — [reiscampos.ke@gmail.com](mailto:reiscampos.ke@gmail.com)
 
 ### Portfólio
 
@@ -142,6 +144,13 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
 
 <br clear="right">
 
+## Competências profissionais
+
+- Atendimento ao cliente e comunicação profissional.
+- Suporte técnico, testes, resolução de problemas e documentação.
+- Organização documental, planilhas, agendas e controle de informações.
+- Pensamento analítico, gestão de prioridades, trabalho em equipe e adaptabilidade.
+
 ## Estatísticas do GitHub
 
 <p align="center">
@@ -174,7 +183,7 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
 ---
 
 <p align="center">
-  Aberto a oportunidades, colaboração e novos desafios em desenvolvimento de software.
+  Aberto a oportunidades e novos desafios em desenvolvimento, TI, suporte e operações.
 </p>
 
 
