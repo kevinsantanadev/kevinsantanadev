@@ -101,6 +101,8 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
   <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
@@ -109,6 +111,14 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod">
   <img src="https://img.shields.io/badge/Motion-FFF312?style=flat-square&logo=framer&logoColor=111827" alt="Motion">
   <img src="https://img.shields.io/badge/Lucide%20React-F56565?style=flat-square&logo=lucide&logoColor=white" alt="Lucide React">
+</p>
+
+### APIs, autenticação e segurança
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square&logo=swagger&logoColor=white" alt="APIs REST">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/Supabase%20Auth-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase Auth">
 </p>
 
 ### Bancos de dados e serviços
@@ -123,7 +133,6 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
   <img src="https://img.shields.io/badge/Mercado%20Pago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="Mercado Pago">
   <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend">
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA">
-  <img src="https://img.shields.io/badge/Supabase%20Auth-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase Auth">
   <img src="https://img.shields.io/badge/Supabase%20Storage-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase Storage">
 </p>
 
@@ -174,9 +183,10 @@ Portfólio multilíngue com temas claro e escuro, acessibilidade, animações su
 
 ## Atualmente estudando
 
-- Autenticação e separação segura de dados.
+- Django, Django REST Framework e construção de APIs REST.
+- Autenticação com JWT e separação segura de dados.
 - Dashboards, indicadores e relatórios.
-- APIs REST e integrações externas.
+- Integrações externas.
 - Interfaces responsivas e acessibilidade.
 - Versionamento e boas práticas com Git e GitHub.
 
