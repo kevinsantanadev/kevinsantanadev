@@ -53,6 +53,8 @@ Plataforma digital para gestão de vacinas e perfis de saúde desenvolvida em um
 
 [Conhecer o ImunoLink](https://projetomed.com.br/TECTI/2025/gp02/imunolink/app/index.php)
 
+## Projetos para clientes
+
 ### PS Agenda — projeto para cliente
 
 Sistema profissional de agendamento online desenvolvido sob demanda para um negócio de serviços. O produto público oferece uma experiência responsiva para conhecer os serviços e solicitar horários.
@@ -60,8 +62,6 @@ Sistema profissional de agendamento online desenvolvido sob demanda para um neg�
 O código-fonte, as credenciais, o painel administrativo e os dados operacionais permanecem privados para preservar o trabalho contratado e a segurança do cliente.
 
 [Acessar o PS Agenda](https://agenda.kevinsantanadev.com.br)
-
-## Outros trabalhos selecionados
 
 ### Portfólio Bruna Campos — projeto para cliente
 
@@ -72,6 +72,8 @@ O site pode ser acessado publicamente, mas seu código-fonte e os documentos de 
 [Acessar o Portfólio Bruna Campos](https://bruna.kevinsantanadev.com.br)
 
 **Desenvolvimento e propriedade intelectual:** Kevin Santana dos Reis — [reiscampos.ke@gmail.com](mailto:reiscampos.ke@gmail.com)
+
+## Outros trabalhos selecionados
 
 ### Portfólio
 
